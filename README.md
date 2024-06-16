@@ -4,11 +4,13 @@
 
 CF-Workers-TEXT2KV 是一个在 Cloudflare Workers 上运行的无服务器应用程序,可以将文本文件存储到 Cloudflare Workers KV 键值存储中,并且可以通过 URL 请求读取或更新这些文本文件。它提供了一个安全的方式来管理和访问您的文本文件,同时利用了 Cloudflare 的全球分布式网络。
 
-- 部署视频教程：https://www.youtube.com/watch?v=f9hDJCqAEGA
+- 部署视频教程：[小白教程](https://www.youtube.com/watch?v=dzxezRV1v-o)
+- 视频教程：[所有教程](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF)
 
-- Telegram交流群：[@AM_CLUB](https://t.me/AM_CLUBS)
-- YouTube频道：https://youtube.com/@AM_CLUB
-- 临时订阅地址：https://worker.amcloud.filegear-sg.me/866853eb-5293-4f09-bf00-e13eb237c655
+- Telegram交流群：[AM_CLUBS](https://t.me/AM_CLUBS)
+- YouTube频道：[@AM_CLUB](https://youtube.com/@AM_CLUB)
+- VLESS临时订阅地址：[VLESS](https://worker.amcloud.filegear-sg.me/866853eb-5293-4f09-bf00-e13eb237c655)
+- Github仓库地址：[ansoncloud8](https://github.com/ansoncloud8)
 
 ## 功能特性
 
